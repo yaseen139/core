@@ -1,2 +1,3 @@
 # core
-thius is my notes
+this is my notes
+ahmed yaseen test
